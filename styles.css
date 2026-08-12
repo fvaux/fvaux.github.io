@@ -1,0 +1,371 @@
+/* Main site layout */
+
+body {
+  font-size: 1rem;
+}
+
+.page-columns {
+  column-gap: 2rem;
+}
+
+
+/* Profile sidebar */
+
+.profile-sidebar {
+  text-align: left;
+  padding: 0.5rem 0.35rem 1rem 0.35rem;
+}
+
+
+/* Profile image */
+
+.profile-photo {
+  width: 100%;
+  max-width: 190px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+  margin: 0 auto 1.25rem auto;
+}
+
+
+/* Name */
+
+.profile-name {
+  font-size: 1.3rem;
+  font-weight: 650;
+  line-height: 1.2;
+  margin-bottom: 0.55rem;
+}
+
+
+/* Role */
+
+.profile-role {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin-bottom: 0.2rem;
+}
+
+
+/* Affiliation */
+
+.profile-affiliation {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 1.2rem;
+}
+
+/* Key words */
+
+.key-words {
+  font-size: 0.88rem;
+  line-height: 1.4;
+  font-style: italic;
+  margin-bottom: 1.2rem;
+}
+
+/* Profile links */
+
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.profile-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-decoration: none;
+  color: inherit;
+  font-size: 0.92rem;
+  padding: 0.2rem 0;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
+}
+
+.profile-links i {
+  width: 1.2rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+
+/* Slightly soften the sidebar */
+
+.sidebar {
+  border-right: none !important;
+}
+
+
+/* Main content width */
+
+main.content {
+  max-width: 950px;
+}
+
+
+/* Mobile layout */
+
+@media (max-width: 991px) {
+
+  .profile-sidebar {
+    text-align: center;
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .profile-photo {
+    max-width: 170px;
+  }
+
+  .profile-links {
+    align-items: center;
+  }
+
+  .profile-links a {
+    width: fit-content;
+  }
+}
+
+/* Publications */
+
+.publication {
+  margin-bottom: 1.6rem;
+}
+
+.publication-links {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+}
+
+.publication-links a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.publication-links a:hover {
+  text-decoration: underline;
+}
+
+/* Issue cover gallery */
+
+.cover-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.cover-item {
+  text-align: center;
+}
+
+.cover-item img {
+  width: 100%;
+  max-width: 220px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 0.75rem auto;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.10);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.cover-item img:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.14);
+}
+
+.cover-item p {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+
+/* Mobile issue cover layout */
+
+@media (max-width: 768px) {
+
+  .cover-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cover-item img {
+    max-width: 200px;
+  }
+
+}
+
+/* CV timeline */
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr) 125px;
+  gap: 1.5rem;
+  align-items: start;
+  padding: 1.4rem 0;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.cv-years {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #666;
+  padding-top: 0.2rem;
+}
+
+.cv-main h3 {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+  font-size: 1.2rem;
+}
+
+.cv-main p {
+  margin-bottom: 0.5rem;
+}
+
+.cv-image img {
+  width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+}
+
+/* Mobile CV layout */
+
+@media (max-width: 768px) {
+
+  .cv-entry {
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+
+  .cv-years {
+    font-size: 0.85rem;
+  }
+
+  .cv-image img {
+    max-width: 140px;
+    margin-left: 0;
+  }
+}
+
+/* Online profile cards */
+
+.online-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2.5rem 0;
+}
+
+.online-card {
+  position: relative;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 12px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.online-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.online-card p {
+  margin-bottom: 0.75rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.online-card a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.online-card a:hover {
+  text-decoration: underline;
+}
+
+/* Individual online card colours */
+
+.online-card.inaturalist {
+  background: #f1f7ed;
+  border-color: #d9e8cf;
+  border-left: 4px solid #74ac00;
+}
+
+.online-card.wikipedia {
+  background: #f5f5f5;
+  border-color: #dddddd;
+  border-left: 4px solid #555555;
+}
+
+.online-card.phylopic {
+  background: #f1f7f4;
+  border-color: #d5e7de;
+  border-left: 4px solid #00857e;
+}
+
+.online-card.bionomia {
+  background: #f6f1e9;
+  border-color: #e8dcc8;
+  border-left: 4px solid #1f712c;
+}
+
+.online-card.bluesky {
+  background: #eef7ff;
+  border-color: #d3e9fa;
+  border-left: 4px solid #1185fe;
+}
+
+.online-card.youtube {
+  background: #fff1f1;
+  border-color: #f3d6d6;
+  border-left: 4px solid #ff0033;
+}
+
+.online-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+
+/* Online videos */
+
+.online-video {
+  margin: 1.25rem 0 2.5rem 0;
+}
+
+.online-video h3 {
+  margin-bottom: 0.35rem;
+}
+
+.online-video-description {
+  color: #555;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+
+/* Mobile online layout */
+
+@media (max-width: 768px) {
+
+  .online-grid {
+    grid-template-columns: 1fr;
+  }
+
+}

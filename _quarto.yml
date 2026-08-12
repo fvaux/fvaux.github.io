@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Felix Zareie-Vaux"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications and data
+      - href: cv.qmd
+        text: CV
+      - href: online.qmd
+        text: Elsewhere online
+
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - text: |
+          <div class="profile-sidebar">
+
+          <img src="/images/profile/profile.jpg" class="profile-photo">
+
+          <div class="profile-name">Felix Zareie-Vaux</div>
+
+          <div class="profile-role">
+          Marine Biosecurity Scientist
+          </div>
+          
+          <div class="profile-affiliation">
+          Earth Sciences New Zealand
+          </div>
+          
+          <div class="key-words">
+          evolutionary ecology, genomics, biosecurity
+          </div>
+
+          <div class="profile-links">
+
+          <a href="mailto:felixvaux.evolution@gmail.com">
+          <i class="bi bi-envelope-fill"></i>
+          <span>Email</span>
+          </a>
+
+          <a href="https://scholar.google.com/citations?user=opPJEhoAAAAJ" target="_blank">
+          <i class="bi bi-mortarboard-fill"></i>
+          <span>Google Scholar</span>
+          </a>
+
+          <a href="https://orcid.org/0000-0002-2882-7996" target="_blank">
+          <i class="bi bi-person-badge-fill"></i>
+          <span>ORCID</span>
+          </a>
+
+          <a href="https://www.webofscience.com/wos/author/record/V-6883-2019" target="_blank">
+          <i class="bi bi-journal-text"></i>
+          <span>Web of Science</span>
+          </a>
+
+          <a href="https://github.com/fvaux" target="_blank">
+          <i class="bi bi-github"></i>
+          <span>GitHub</span>
+          </a>
+          
+          <a href="https://bsky.app/profile/felixvaux.bsky.social" target="_blank">
+          <i class="bi bi-bluesky"></i>
+          <span>Bluesky</span>
+          </a>
+
+          </div>
+
+          </div>
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto
