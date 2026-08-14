@@ -94,6 +94,26 @@ body {
   text-align: center;
 }
 
+/* Profile link branding */
+.profile-link-orcid {
+  color: #a6ce39 !important;
+}
+
+.profile-link-scholar {
+  color: #DB4437 !important;
+}
+
+.profile-link-wos {
+  color: #5e33bf !important;
+}
+
+.profile-link-github {
+  color: #24292f !important;
+}
+
+.profile-link-bluesky {
+  color: #1185fe !important;
+}
 
 /* Slightly soften the sidebar */
 
@@ -368,4 +388,43 @@ main.content {
     grid-template-columns: 1fr;
   }
 
+}
+
+/* Navigation bar */
+
+.navbar {
+  background-color: #2f6f8f !important;
+}
+
+/* Site title */
+
+.navbar-brand {
+  color: white !important;
+}
+
+/* Navigation links */
+
+.navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.88) !important;
+}
+
+/* Hover */
+
+.navbar-nav .nav-link:hover {
+  color: white !important;
+}
+
+/* Current page */
+
+.navbar-nav .nav-link.active {
+  color: white !important;
+  font-weight: 600;
+}
+
+/* Navbar search icon */
+
+#quarto-search .aa-SubmitIcon,
+#quarto-search svg {
+  color: rgba(255, 255, 255, 0.88) !important;
+  stroke: rgba(255, 255, 255, 0.88) !important;
 }

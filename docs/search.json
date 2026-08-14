@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Felix Zareie-Vaux",
-    "section": "",
-    "text": "I’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. Using insights provided by genomics, and by evaluating evolutionary and ecological contexts, my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Felix Zareie-Vaux",
-    "section": "",
-    "text": "I’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. Using insights provided by genomics, and by evaluating evolutionary and ecological contexts, my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
-  },
-  {
-    "objectID": "index.html#publications-and-data",
-    "href": "index.html#publications-and-data",
-    "title": "Felix Zareie-Vaux",
-    "section": "Publications and data",
-    "text": "Publications and data\nView publications and data →"
-  },
-  {
-    "objectID": "index.html#cv",
-    "href": "index.html#cv",
-    "title": "Felix Zareie-Vaux",
-    "section": "CV",
-    "text": "CV\nView employment and education →"
-  },
-  {
-    "objectID": "index.html#elsewhere-online",
-    "href": "index.html#elsewhere-online",
-    "title": "Felix Zareie-Vaux",
-    "section": "Elsewhere online",
-    "text": "Elsewhere online\nFind my contributions on other websites and watch videos→"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications and data",
@@ -46,14 +11,14 @@
     "href": "publications.html#submitted",
     "title": "Publications and data",
     "section": "Submitted",
-    "text": "Submitted\n\nPearson RA, Preston G, Bulleid J, David S, Zareie-Vaux F, Clements D, Tait LW. Accelerated development and deployment of computer vision models for invasive aquatic pests. Submitted to Scientific Reports.\n\nZenodo\n\n\n\nCarmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, Zareie-Vaux F. Are species distribution models using climate variables suitable to forecast the changing distribution of freshwater organisms? Submitted to Freshwater Biology.\n\nFigshare · GenBank: PP778198–PP778299"
+    "text": "Submitted\n\nPearson RA, Preston G, Bulleid J, David S, Zareie-Vaux F, Clements D, Tait LW. Accelerated development and deployment of computer vision models for invasive aquatic pests. Submitted to Scientific Reports.\n\nZenodo"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications and data",
     "section": "2026",
-    "text": "2026\n\nSamsing F, Arbon P, Arnold M, Barnes AC, Bass D, Becker JA, Bennette J, Caraguel C, Carson J, Costa VA, Dumond T, Geoghegan J, Hutson KS, Knowles G, Knowles J, Lockton K, Pope M, Rudenko O, Sullivan R, Zareie-Vaux F, Williams J, Wiley K. (2026). High-throughput sequencing in aquaculture disease investigations: challenges and opportunities for implementation. Reviews in Aquaculture 18, e70193. 10.1111/raq.70193\n\n\nLane HS, Bilewitch JP, Brooks AS, Smith L, Pomarède M, Dymond M, Michael KP, Zareie-Vaux F. (2026). Concurrent infections by Bonamia species (Haplosporidia) do not cause more intense infections. Parasitology 153, 103–110. 10.1017/S0031182025100978"
+    "text": "2026\n\nCarmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, Zareie-Vaux F. Are species distribution models using climate variables suitable to forecast the changing distribution of freshwater organisms? Freshwater Biology (accepted).\n\nFigshare · GenBank: PP778198–PP778299\n\n\n\nSamsing F, Arbon P, Arnold M, Barnes AC, Bass D, Becker JA, Bennette J, Caraguel C, Carson J, Costa VA, Dumond T, Geoghegan J, Hutson KS, Knowles G, Knowles J, Lockton K, Pope M, Rudenko O, Sullivan R, Zareie-Vaux F, Williams J, Wiley K. (2026). High-throughput sequencing in aquaculture disease investigations: challenges and opportunities for implementation. Reviews in Aquaculture 18, e70193. 10.1111/raq.70193\n\n\nLane HS, Bilewitch JP, Brooks AS, Smith L, Pomarède M, Dymond M, Michael KP, Zareie-Vaux F. (2026). Concurrent infections by Bonamia species (Haplosporidia) do not cause more intense infections. Parasitology 153, 103–110. 10.1017/S0031182025100978"
   },
   {
     "objectID": "publications.html#section-1",
@@ -147,25 +112,18 @@
     "text": "Selected videos\n\nDNA extraction walkthrough\n\nA walkthrough for extracting genomic DNA from Durvillaea and other macroalgae.\n\n\n\n\n\n\n\nRecorded seminar\n\nA recorded seminar presentation from 2019 on my albacore tuna research."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "2023–Present\n\n\n\nEarth Sciences New Zealand (formerly NIWA)\nWork a wide variety of biosecurity, industry-focused and biodiversity research projects, typically involving genetic and genomic methods applied in marine and freshwater environments.\n\n\n\n\n\n\n\n2021–2023\n\n\n\nFonterra Co-operative Group\nPrimarily worked on whole-genome and metagenomic sequencing and client reporting for an environmental and food-borne pathogen management programme.\n2022-2023: Research Scientist\n2021-2022: Associate Research Scientist\n\n\n\n\n\n\n\n2019-2021\n\n\n\nUniversity of Otago\nResearched the genomic diversity of Durvillaea southern bull kelp and investigated the impact of major earthquake uplift events on coastal ecosystems.\nSupervised by Jon Waters, funded by Marsden Grant 18-UOO-172.\n\n\n\n\n\n\n\n2018-2019\n\n\n\nOregon State University\nInvestigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr.\nSupervised by Kathleen O’Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270220."
+    "text": "2023–Present\n\n\n\nEarth Sciences New Zealand (formerly NIWA)\nWork on a wide variety of biosecurity, industry and biodiversity-focused research projects, typically involving genetic and genomic methods applied in marine and freshwater environments.\n\n\n\n\n\n\n\n2021–2023\n\n\n\nFonterra Co-operative Group\nPrimarily worked on whole-genome and metagenomic sequencing for an environmental and food-borne pathogen management programme. Alongside lab and bioinformatic work, led client reporting and assisted with database development.\n2022-2023: Research Scientist\n2021-2022: Associate Research Scientist\n\n\n\n\n\n\n\n2019-2021\n\n\n\nUniversity of Otago\nResearched the genomic diversity of Durvillaea southern bull kelp and investigated the impact of major earthquake uplift events on coastal ecosystems.\nSupervised by Jon Waters, funded by Marsden Grant 18-UOO-172.\n\n\n\n\n\n\n\n2018-2019\n\n\n\nOregon State University\nInvestigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr.\nSupervised by Kathleen O’Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270220."
   },
   {
     "objectID": "cv.html#employment",
     "href": "cv.html#employment",
     "title": "CV",
     "section": "",
-    "text": "2023–Present\n\n\n\nEarth Sciences New Zealand (formerly NIWA)\nWork a wide variety of biosecurity, industry-focused and biodiversity research projects, typically involving genetic and genomic methods applied in marine and freshwater environments.\n\n\n\n\n\n\n\n2021–2023\n\n\n\nFonterra Co-operative Group\nPrimarily worked on whole-genome and metagenomic sequencing and client reporting for an environmental and food-borne pathogen management programme.\n2022-2023: Research Scientist\n2021-2022: Associate Research Scientist\n\n\n\n\n\n\n\n2019-2021\n\n\n\nUniversity of Otago\nResearched the genomic diversity of Durvillaea southern bull kelp and investigated the impact of major earthquake uplift events on coastal ecosystems.\nSupervised by Jon Waters, funded by Marsden Grant 18-UOO-172.\n\n\n\n\n\n\n\n2018-2019\n\n\n\nOregon State University\nInvestigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr.\nSupervised by Kathleen O’Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270220."
+    "text": "2023–Present\n\n\n\nEarth Sciences New Zealand (formerly NIWA)\nWork on a wide variety of biosecurity, industry and biodiversity-focused research projects, typically involving genetic and genomic methods applied in marine and freshwater environments.\n\n\n\n\n\n\n\n2021–2023\n\n\n\nFonterra Co-operative Group\nPrimarily worked on whole-genome and metagenomic sequencing for an environmental and food-borne pathogen management programme. Alongside lab and bioinformatic work, led client reporting and assisted with database development.\n2022-2023: Research Scientist\n2021-2022: Associate Research Scientist\n\n\n\n\n\n\n\n2019-2021\n\n\n\nUniversity of Otago\nResearched the genomic diversity of Durvillaea southern bull kelp and investigated the impact of major earthquake uplift events on coastal ecosystems.\nSupervised by Jon Waters, funded by Marsden Grant 18-UOO-172.\n\n\n\n\n\n\n\n2018-2019\n\n\n\nOregon State University\nInvestigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr.\nSupervised by Kathleen O’Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270220."
   },
   {
     "objectID": "cv.html#education",
@@ -173,6 +131,55 @@
     "title": "CV",
     "section": "Education",
     "text": "Education\n\n\n2013-2017\n\n\nPhD in Evolutionary Biology\nMassey University\nThesis: Evolutionary lineages and the diversity of New Zealand true whelks\nInvestigated the diversity and systematics of extant and fossil buccinid marine snails, focusing on Penion whelks. Learnt phylogenetic, population genomic and geometric morphometric theory and analyses, as well genetic and palaeontological methods.\nSupervised by Mary Morgan-Richards, Steve Trewick, and James Crampton, funded by Marsden Grant 12-MAU-008.\n\n\n\n\n\n\n\n2009-2013\n\n\nBSc Hons in Evolutionary Biology with Study Abroad\nUniversity of Exeter\nFirst-Class Honours; Dean’s Commendation\nFinal year research project: Phylodynamics of three bumblebee viruses\nDissertation: The continuity and importance of heterospecific information use\nMentors: Lena Bayer-Wilfert, David Hosken.\n\n\n\n\n\n2011-2012\n\n\nStudy Abroad\nUniversity of Southern Mississippi\nMajor: Biology\nMinor: Archaeology"
+  },
+  {
+    "objectID": "cv.html#research-journey",
+    "href": "cv.html#research-journey",
+    "title": "CV",
+    "section": "Research journey",
+    "text": "Research journey"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Felix Zareie-Vaux",
+    "section": "",
+    "text": "I’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Felix Zareie-Vaux",
+    "section": "",
+    "text": "I’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
+  },
+  {
+    "objectID": "index.html#publications-and-data",
+    "href": "index.html#publications-and-data",
+    "title": "Felix Zareie-Vaux",
+    "section": "Publications and data",
+    "text": "Publications and data\nView publications and data →"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Felix Zareie-Vaux",
+    "section": "CV",
+    "text": "CV\nView employment and education →"
+  },
+  {
+    "objectID": "index.html#elsewhere-online",
+    "href": "index.html#elsewhere-online",
+    "title": "Felix Zareie-Vaux",
+    "section": "Elsewhere online",
+    "text": "Elsewhere online\nFind my contributions on other websites and watch videos→"
   },
   {
     "objectID": "presentations.html",
