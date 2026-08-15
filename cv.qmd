@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+![](images/home/breakerbay.jpg){.homepage-photo fig-alt="View from Breaker Bay"}
+
 ## Employment
 
 ::: {.cv-entry}
@@ -339,3 +341,8 @@ leaflet(travel) |>
     lat2 = max(travel$lat)
   )
 ```
+
+<div class="photo-spacer"></div>
+<div class="photo-spacer"></div>
+
+![](images/home/lockinge.jpg){.homepage-photo fig-alt="Horse chestnut avenue into Lockinge"}

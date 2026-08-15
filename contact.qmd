@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-![](images/home/maunganui.jpg){.homepage-photo fig-alt="View from Mt Maunganui"}
+![](images/home/wellington.jpg){.homepage-photo fig-alt="Wellington harbour"}
 
 ::: {.contact-links}
 
@@ -29,4 +29,4 @@ Research updates and other posts
 
 :::
 
-![](images/home/breakerbay.jpg){.homepage-photo fig-alt="View from Breaker Bay"}
+![](images/home/albacore.jpg){.homepage-photo fig-alt="Albacore landed in Newport"}

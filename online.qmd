@@ -2,6 +2,8 @@
 title: "Elsewhere online"
 ---
 
+![](images/home/neahkahnie.jpg){.homepage-photo fig-alt="Neakhaknie Mountain in Oregon"}
+
 Here are some links to my profiles or activity on other websites. I contribute towards open and citizen science resources and enjoy communicating my research to a broad audience.
 
 ## Open science and outreach

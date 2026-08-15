@@ -2,6 +2,8 @@
 title: "Publications and data"
 ---
 
+![](images/home/tautuku.jpg){.homepage-photo fig-alt="Durvillaea at Tautuku"}
+
 Here's a list of my publications with their associated data. Don't hesitate to email me to access a paper or to ask any questions!
 
 Most papers are published with online supplementary material. Code, analysis files, and processed genetic sequence data (e.g. demultiplexed reads, SNP files, or alignments) have been archived for most publications in repositories. Where raw data (e.g. original DNA sequences or morphometric photos) are unavailable, please contact me or my former supervisors for access. My [GitHub page](https://github.com/fvaux) has code for most studies I have led.
@@ -335,3 +337,7 @@ August 2017
 :::
 
 :::
+
+<div class="photo-spacer"></div>
+
+![](images/home/penion.jpg){.homepage-photo fig-alt="Penion cuvierianus shells at Te Papa Tongarewa during my PhD"}

@@ -9,7 +9,7 @@ title-block-banner: false
 
 I'm a **Marine Biosecurity Scientist at Earth Sciences New Zealand**. By trade, I'm an **evolutionary biologist** with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.
 
-Throughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations, species, and further biological diversity. 
+Throughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations and species. 
 
 I've enjoyed leading both basic 'blue skies' and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I'm eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.
 
@@ -35,4 +35,4 @@ I'm always interested in supporting and supervising postgraduate students, altho
 
 <div class="photo-spacer"></div>
 
-![](images/home/tautuku.jpg){.homepage-photo fig-alt="Durvillaea at Tautuku"}
+![](images/home/maunganui.jpg){.homepage-photo fig-alt="View from Mt Maunganui"}
