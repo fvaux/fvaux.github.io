@@ -3,6 +3,8 @@ title: "Felix Zareie-Vaux"
 title-block-banner: false
 ---
 
+![](images/home/routeburn.jpg){.homepage-photo fig-alt="Felix Zareie-Vaux on the Routeburn track"}
+
 ## About
 
 I'm a **Marine Biosecurity Scientist at Earth Sciences New Zealand**. By trade, I'm an **evolutionary biologist** with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.
@@ -26,3 +28,11 @@ I'm always interested in supporting and supervising postgraduate students, altho
 ## Elsewhere online
 
 [Find my contributions on other websites and watch videos→](online.qmd)
+
+## Contact
+
+[View my contact details and other profiles→](contact.qmd)
+
+<div class="photo-spacer"></div>
+
+![](images/home/tautuku.jpg){.homepage-photo fig-alt="Durvillaea at Tautuku"}

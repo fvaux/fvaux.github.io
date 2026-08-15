@@ -15,7 +15,9 @@ website:
         text: CV
       - href: online.qmd
         text: Elsewhere online
-
+      - href: contact.qmd
+        text: Contact
+        
   sidebar:
     style: "floating"
     search: false
@@ -90,6 +92,32 @@ website:
 
           </div>
 
+  page-footer:
+    border: false
+    background: "#2f6f8f"
+    foreground: "#ffffff"
+    center: |
+      <div class="footer-links">
+        <a href="mailto:felixvaux.evolution@gmail.com">
+          <i class="bi bi-envelope-fill"></i> Email
+        </a>
+        <a href="https://scholar.google.com/citations?user=opPJEhoAAAAJ" target="_blank">
+          <i class="bi bi-mortarboard-fill"></i> Google Scholar
+        </a>
+        <a href="https://orcid.org/0000-0002-2882-7996" target="_blank">
+          <i class="bi bi-person-badge-fill"></i> ORCID
+        </a>
+        <a href="https://www.webofscience.com/wos/author/record/V-6883-2019" target="_blank">
+          <i class="bi bi-journal-bookmark-fill"></i> Web of Science
+        </a>
+        <a href="https://github.com/fvaux" target="_blank">
+          <i class="bi bi-github"></i> GitHub
+        </a>
+        <a href="https://bsky.app/profile/felixvaux.bsky.social" target="_blank">
+          <i class="bi bi-bluesky"></i> Bluesky
+        </a>
+      </div>
+      
 format:
   html:
     theme: cosmo

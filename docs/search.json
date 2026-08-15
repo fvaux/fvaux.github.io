@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publications and data",
     "section": "",
-    "text": "Here’s a list of my publications with their associated data. Don’t hesitate to email me to access a paper or to ask any questions!\nMost papers are published with online supplementary material. Code, analysis files, and processed genetic sequence data (e.g. demultiplexed reads, SNP files, or alignments) have been archived for most publications in repositories. Where raw data (e.g. original DNA sequences or morphometric photos) are unavailable, please contact me or my former supervisors for access. My GitHub page has code for most studies I have led.\nYou can also view my publications on my ORCID, Web of Science, and GoogleScholar profiles. Web of Science also lists my verified peer-reviews."
+    "text": "Here’s a list of my publications with their associated data. Don’t hesitate to email me to access a paper or to ask any questions!\nMost papers are published with online supplementary material. Code, analysis files, and processed genetic sequence data (e.g. demultiplexed reads, SNP files, or alignments) have been archived for most publications in repositories. Where raw data (e.g. original DNA sequences or morphometric photos) are unavailable, please contact me or my former supervisors for access. My GitHub page has code for most studies I have led.\nYou can also view my publications on my ORCID, Web of Science, and GoogleScholar profiles. Web of Science also lists my verified peer reviews."
   },
   {
     "objectID": "publications.html#submitted",
@@ -157,8 +157,8 @@
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Felix Zareie-Vaux",
-    "section": "",
-    "text": "I’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
+    "section": "About",
+    "text": "About\nI’m a Marine Biosecurity Scientist at Earth Sciences New Zealand. By trade, I’m an evolutionary biologist with expertise in evolutionary ecology, genomics, biosecurity, and programming. I live and work in Wellington / Te Whanganui-a-Tara in New Zealand / Aotearoa, and I grew up in rural Oxfordshire in the UK.\nThroughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of organisms, including non-model aquatic species. I use the insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations, species, and further biological diversity.\nI’ve enjoyed leading both basic ‘blue skies’ and applied investigations, and I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my research. I support Māori-led research, and I’m eager to facilitate mātauranga and the data sovereignty directives of my iwi and hapū partners on all projects.\nPlease feel free to contact me if you want to collaborate, ask questions or access data.\nI’m always interested in supporting and supervising postgraduate students, although students must be enrolled at a university and co-supervised by a staff member there."
   },
   {
     "objectID": "index.html#publications-and-data",
@@ -187,5 +187,19 @@
     "title": "Presentations",
     "section": "",
     "text": "Publication list coming soon."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Felix Zareie-Vaux",
+    "section": "Contact",
+    "text": "Contact\nView my contact details and other profiles→"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\nEasiest way to contact me\n Work profile\nMy page at Earth Sciences New Zealand\n Google Scholar\nResearcher profile with publications\n ORCID\nResearcher profile with persistent identifier (ORCID: 0000-0002-2882-7996)\n Web of Science\nResearcher profile with publications and verified peer reviews\n GitHub\nRepositories for code and software\n Bluesky\nResearch updates and other posts"
   }
 ]

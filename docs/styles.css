@@ -128,7 +128,6 @@ main.content {
   max-width: 950px;
 }
 
-
 /* Mobile layout */
 
 @media (max-width: 991px) {
@@ -151,6 +150,55 @@ main.content {
   .profile-links a {
     width: fit-content;
   }
+}
+
+/* Page footer */
+
+.nav-footer {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  font-size: 0.9rem;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.footer-links a {
+  color: white !important;
+  text-decoration: none;
+  white-space: nowrap;
+
+  /* Explicit spacing around each link */
+  margin: 0.4rem 1.5rem;
+}
+
+.footer-links a:hover {
+  color: white !important;
+  text-decoration: underline;
+}
+
+.footer-links i {
+  margin-right: 0.35rem;
+}
+
+/* Homepage main photo */
+
+.homepage-photo {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+  margin: 0 0 2rem 0;
+}
+
+/* Extra space before selected photos */
+
+.photo-spacer {
+  height: 2rem;
 }
 
 /* Publications */
@@ -427,4 +475,25 @@ main.content {
 #quarto-search svg {
   color: rgba(255, 255, 255, 0.88) !important;
   stroke: rgba(255, 255, 255, 0.88) !important;
+}
+
+/* Contact page */
+
+.contact-links p {
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.contact-links a {
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
+
+.contact-links i {
+  width: 1.4rem;
+  margin-right: 0.35rem;
 }
