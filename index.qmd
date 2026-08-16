@@ -11,7 +11,7 @@ Kia ora, I'm a **Marine Biosecurity Scientist at Earth Sciences New Zealand**. B
 
 Throughout my career, I’ve applied emerging genomic methods and analyses to a wide variety of species, including many unusual 'non-model' aquatic organisms. I use the exciting insight provided by genomics to test evolutionary and ecological hypotheses, and my research assists with the interpretation, management and conservation of populations and species. 
 
-I equally enjoy both basic 'blue skies' and applied research, and I've led investigations on behalf of government and industry. I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my work. I support Māori-led research, and I'm always eager to involve te ao Māori and to facilitate the data sovereignty directives of my iwi and hapū partners on shared projects.
+I equally enjoy both basic 'blue skies' and applied research, and I've led many investigations on behalf of government and industry. I strongly value open science and clear scientific communication so that stakeholders and wider society can receive the greatest benefit from my work. I support Māori-led research, and I'm always eager to involve te ao Māori and to facilitate the data sovereignty directives of my iwi and hapū partners on shared projects.
 
 Please feel free to [contact me](mailto:felixvaux.evolution@gmail.com) if you want to collaborate, ask questions, or access papers or data. 
 
@@ -25,7 +25,7 @@ I'm always interested in supporting, training and supervising postgraduate stude
 
 [View employment and education →](cv.qmd)
 
-## Elsewhere online
+## Online outreach
 
 [Discover my online outreach activity and watch videos→](online.qmd)
 
