@@ -4,7 +4,7 @@ title: "CV"
 
 ![](images/home/breakerbay.jpg){.homepage-photo fig-alt="View from Breaker Bay"}
 
-Here's a brief summary of my research career.
+Here's a brief summary of my research career. A summary is also available on my [ORCID](https://orcid.org/0000-0002-2882-7996) profile.
 
 ## Employment
 
@@ -132,7 +132,7 @@ Supervised by Kathleen O'Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270
 
 [Thesis: Evolutionary lineages and the diversity of New Zealand true whelks](http://hdl.handle.net/10179/13113)
 
-Investigated the diversity and systematics of extant and fossil buccinid marine snails, focusing on *Penion* whelks. Learnt phylogenetic, population genomic and geometric morphometric theory and analyses, as well genetic and palaeontological methods.
+Investigated the diversity and systematics of extant and fossil buccinid marine snails, focusing on *Penion* whelks. 
 
 Supervised by Mary Morgan-Richards, Steve Trewick, and James Crampton, funded by Marsden Grant 12-MAU-008.
 
@@ -165,7 +165,7 @@ Final year research project: Phylodynamics of three bumblebee viruses
 
 Dissertation: The continuity and importance of heterospecific information use
 
-Mentors: Lena Bayer-Wilfert, David Hosken.
+Mentored by Lena Wilfert and David Hosken.
 
 :::
 
