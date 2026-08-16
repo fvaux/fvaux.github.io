@@ -1,12 +1,12 @@
 ---
-title: "Elsewhere online"
+title: "Online outreach"
 ---
 
 ![](images/home/neahkahnie.jpg){.homepage-photo fig-alt="Neakhaknie Mountain in Oregon"}
 
-Here are some links to my profiles or activity on other websites. I contribute towards open and citizen science resources and enjoy communicating my research to a broad audience.
+Here are some links to my open science and outreach activity on other websites. I contribute towards open and citizen science resources and enjoy communicating my research to a broad audience. 
 
-## Open science and outreach
+## Websites
 
 ::: {.online-grid}
 
@@ -44,7 +44,7 @@ I upload illustrations to PhyloPic, which is a free, open database of silhouette
 
 ### Bionomia
 
-Some of my contributions to natural history collections and other databases are recorded on Bionomia.
+I've confirmed some of my contributions to natural history collections and GenBank on Bionomia.
 
 [View profile →](https://bionomia.net/0000-0002-2882-7996)
 

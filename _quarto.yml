@@ -14,7 +14,7 @@ website:
       - href: cv.qmd
         text: CV
       - href: online.qmd
-        text: Elsewhere online
+        text: Online outreach
       - href: contact.qmd
         text: Contact
         

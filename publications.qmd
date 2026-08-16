@@ -1,5 +1,6 @@
 ---
 title: "Publications and data"
+toc-depth: 3
 ---
 
 ![](images/home/tautuku.jpg){.homepage-photo fig-alt="Durvillaea at Tautuku"}
@@ -10,7 +11,8 @@ Most papers are published with online supplementary material. Code, analysis fil
 
 You can also view my publications on my [ORCID](https://orcid.org/0000-0002-2882-7996), [Web of Science](https://www.webofscience.com/wos/author/record/V-6883-2019), and [GoogleScholar](https://scholar.google.com/citations?user=opPJEhoAAAAJ) profiles. Web of Science also lists my verified peer reviews.
 
-## *Submitted*
+## Journal articles
+### *Submitted*
 ::: {.publication}
 
 Pearson RA, Preston G, Bulleid J, David S, **Zareie-Vaux F**, Clements D, Tait LW. Accelerated development and deployment of computer vision models for invasive aquatic pests. *Submitted to Scientific Reports*.
@@ -23,7 +25,7 @@ Pearson RA, Preston G, Bulleid J, David S, **Zareie-Vaux F**, Clements D, Tait L
 
 :::
 
-## 2026
+### 2026
 ::: {.publication}
 
 Carmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, **Zareie-Vaux F**. Are species distribution models using climate variables suitable to forecast the changing distribution of freshwater organisms? *Freshwater Biology* (accepted).
@@ -49,7 +51,7 @@ Lane HS, Bilewitch JP, Brooks AS, Smith L, Pomarède M, Dymond M, Michael KP, **
 
 :::
 
-## 2024
+### 2024
 ::: {.publication}
 
 **Vaux F**, Parvizi E, Duffy GA, Dutoit L, Craw D, Waters JM, Fraser CI. (2024). First genomic snapshots of recolonising lineages following a devastating earthquake. *Ecography* 2024, e07117. [10.1111/ecog.07117](https://doi.org/10.1111/ecog.07117)
@@ -74,7 +76,7 @@ Pearman WS, Morales SE, **Vaux F**, Gemmell NJ, Fraser CI. (2024). Host populati
 
 :::
 
-## 2023
+### 2023
 ::: {.publication}
 
 **Vaux F**, Fraser CI, Craw D, Read S, Waters JM. (2023). Integrating kelp genomic analyses and geological data to reveal ancient earthquake impacts. *Journal of the Royal Society Interface* 20, 20230105. [10.1098/rsif.2023.0105](https://doi.org/10.1098/rsif.2023.0105)
@@ -93,7 +95,7 @@ Pearman WS, Morales SE, **Vaux F**, Gemmell NJ, Fraser CI. (2024). Host populati
 
 :::
 
-## 2022
+### 2022
 ::: {.publication}
 
 **Vaux F**, Parvizi E, Craw D, Fraser CI, Waters JM. (2022). Parallel recolonisations generate distinct genomic sectors in kelp following high magnitude earthquake disturbance. *Molecular Ecology* 31, 4818–4831. [10.1111/mec.16535](https://doi.org/10.1111/mec.16535)
@@ -119,7 +121,7 @@ Thomas LJ, Milotic M, **Vaux F**, Poulin R. (2022). Lurking in the water: testin
 
 :::
 
-## 2021
+### 2021
 ::: {.publication}
 
 Song W, Xie Y, Sun M, Li X, Fitzpatrick CK, **Vaux F**, O’Malley KG, Zhang Q, Qi J, He Y. (2021). A duplicated *amh* is the master sex-determining gene for *Sebastes* rockfish in the Northwest Pacific. *Open Biology* 11, 210063. [10.1098/rsob.210063](https://doi.org/10.1098/rsob.210063)
@@ -157,7 +159,7 @@ Song W, Xie Y, Sun M, Li X, Fitzpatrick CK, **Vaux F**, O’Malley KG, Zhang Q, 
 
 :::
 
-## 2020
+### 2020
 ::: {.publication}
 
 **Vaux F**, Gemmell MR, Hills SFK, Marshall BA, Beu AG, Crampton JSC, Trewick SA, Morgan-Richards M. (2020). Lineage identification affects estimates of evolutionary mode in marine snails. *Systematic Biology* 69, 1106–1121. [10.1093/sysbio/syaa018](https://doi.org/10.1093/sysbio/syaa018)
@@ -182,7 +184,7 @@ Song W, Xie Y, Sun M, Li X, Fitzpatrick CK, **Vaux F**, O’Malley KG, Zhang Q, 
 
 :::
 
-## 2019
+### 2019
 ::: {.publication}
 
 **Vaux F**, Rasmuson LK, Kautzi LA, Rankin PS, Blume MTO, Lawrence KA, Bohn S, O’Malley KG. (2019). Sex matters: otolith shape and genomic variation in deacon rockfish (*Sebastes diaconus*). *Ecology and Evolution* 9, 13153–13173. [10.1002/ece3.5763](https://doi.org/10.1002/ece3.5763)
@@ -219,7 +221,7 @@ O’Malley KG, **Vaux F**, Black AN. (2019). Characterizing neutral and adaptive
 
 :::
 
-## 2018
+### 2018
 ::: {.publication}
 
 Gemmell MR, Trewick SA, Crampton JS, **Vaux F**, Hills SFK, Daly EE, Marshall BA, Beu AG, Morgan-Richards M. (2018). Genetic structure and shell shape variation within a rocky shore whelk suggest both diverging and constraining selection with gene flow. *Biological Journal of the Linnean Society* 125, 827–843. [10.1093/biolinnean/bly142](https://doi.org/10.1093/biolinnean/bly142)
@@ -263,7 +265,7 @@ Marshall BA, Hills SFK, **Vaux F**. (2018). A new species of *Penion* P. Fischer
 :::
 
 
-## 2017
+### 2017
 ::: {.publication}
 
 **Vaux F**, Hills SFK, Marshall BA, Trewick SA, Morgan-Richards M. (2017). A phylogeny of Southern Hemisphere whelks (Gastropoda: Buccinulidae) and concordance with the fossil record. *Molecular Phylogenetics and Evolution* 114, 367–381. [10.1016/j.ympev.2017.06.018](https://doi.org/10.1016/j.ympev.2017.06.018)
@@ -296,14 +298,14 @@ Marshall BA, Hills SFK, **Vaux F**. (2018). A new species of *Penion* P. Fischer
 :::
 
 
-## 2016
+### 2016
 ::: {.publication}
 
 **Vaux F**, Trewick SA, Morgan-Richards M. (2016). Lineages, splits and divergence challenge whether the terms anagenesis and cladogenesis are necessary. *Biological Journal of the Linnean Society* 117, 165–176. [10.1111/bij.12665](https://doi.org/10.1111/bij.12665)
 
 :::
 
-## Issue covers
+### Issue covers
 
 A few of my papers have featured as issue covers...
 

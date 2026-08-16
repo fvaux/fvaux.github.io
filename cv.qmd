@@ -4,21 +4,24 @@ title: "CV"
 
 ![](images/home/breakerbay.jpg){.homepage-photo fig-alt="View from Breaker Bay"}
 
+Here's a brief summary of my research career.
+
 ## Employment
 
 ::: {.cv-entry}
 
+::: {.cv-main}
+
 ::: {.cv-years}
 2023–Present
 :::
-
-::: {.cv-main}
 
 ### Marine Biosecurity Scientist
 
 **Earth Sciences New Zealand (formerly NIWA)**
 
 Work on a wide variety of biosecurity, industry and biodiversity-focused research projects, typically involving genetic and genomic methods applied in marine and freshwater environments.
+
 :::
 
 ::: {.cv-image}
@@ -32,11 +35,11 @@ Work on a wide variety of biosecurity, industry and biodiversity-focused researc
 
 ::: {.cv-entry}
 
+::: {.cv-main}
+
 ::: {.cv-years}
 2021–2023
 :::
-
-::: {.cv-main}
 
 ### Research Scientist
 
@@ -47,6 +50,7 @@ Primarily worked on whole-genome and metagenomic sequencing for an environmental
 2022-2023: Research Scientist
 
 2021-2022: Associate Research Scientist
+
 :::
 
 ::: {.cv-image}
@@ -57,13 +61,14 @@ Primarily worked on whole-genome and metagenomic sequencing for an environmental
 
 :::
 
+
 ::: {.cv-entry}
+
+::: {.cv-main}
 
 ::: {.cv-years}
 2019-2021
 :::
-
-::: {.cv-main}
 
 ### Postdoctoral Fellow
 
@@ -72,6 +77,7 @@ Primarily worked on whole-genome and metagenomic sequencing for an environmental
 Researched the genomic diversity of *Durvillaea* southern bull kelp and investigated the impact of major earthquake uplift events on coastal ecosystems.
 
 Supervised by Jon Waters, funded by Marsden Grant 18-UOO-172.
+
 :::
 
 ::: {.cv-image}
@@ -85,19 +91,20 @@ Supervised by Jon Waters, funded by Marsden Grant 18-UOO-172.
 
 ::: {.cv-entry}
 
+::: {.cv-main}
+
 ::: {.cv-years}
 2018-2019
 :::
-
-::: {.cv-main}
 
 ### Postdoctoral Research Associate
 
 **Oregon State University**
 
-Investigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr. 
+Investigated population genomic diversity in albacore tuna, deacon rockfish and Arctic charr.
 
 Supervised by Kathleen O'Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270220.
+
 :::
 
 ::: {.cv-image}
@@ -108,15 +115,16 @@ Supervised by Kathleen O'Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270
 
 :::
 
+
 ## Education
 
 ::: {.cv-entry}
 
+::: {.cv-main}
+
 ::: {.cv-years}
 2013-2017
 :::
-
-::: {.cv-main}
 
 ### PhD in Evolutionary Biology
 
@@ -127,6 +135,7 @@ Supervised by Kathleen O'Malley, funded by Saltonstall-Kennedy Grant NA17NMF4270
 Investigated the diversity and systematics of extant and fossil buccinid marine snails, focusing on *Penion* whelks. Learnt phylogenetic, population genomic and geometric morphometric theory and analyses, as well genetic and palaeontological methods.
 
 Supervised by Mary Morgan-Richards, Steve Trewick, and James Crampton, funded by Marsden Grant 12-MAU-008.
+
 :::
 
 ::: {.cv-image}
@@ -140,11 +149,11 @@ Supervised by Mary Morgan-Richards, Steve Trewick, and James Crampton, funded by
 
 ::: {.cv-entry}
 
+::: {.cv-main}
+
 ::: {.cv-years}
 2009-2013
 :::
-
-::: {.cv-main}
 
 ### BSc Hons in Evolutionary Biology with Study Abroad
 
@@ -157,6 +166,7 @@ Final year research project: Phylodynamics of three bumblebee viruses
 Dissertation: The continuity and importance of heterospecific information use
 
 Mentors: Lena Bayer-Wilfert, David Hosken.
+
 :::
 
 ::: {.cv-image}
@@ -165,12 +175,16 @@ Mentors: Lena Bayer-Wilfert, David Hosken.
 
 :::
 
+:::
+
+
+::: {.cv-entry}
+
+::: {.cv-main}
 
 ::: {.cv-years}
 2011-2012
 :::
-
-::: {.cv-main}
 
 ### Study Abroad
 
@@ -189,6 +203,7 @@ Minor: Archaeology
 :::
 
 :::
+
 
 ## Research journey
 
@@ -334,7 +349,7 @@ leaflet(travel) |>
     )
   ) |>
 
-  fitBounds(
+ fitBounds(
     lng1 = min(travel$lon),
     lat1 = min(travel$lat),
     lng2 = max(travel$lon),
