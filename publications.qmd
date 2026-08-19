@@ -28,7 +28,7 @@ Pearson RA, Preston G, Bulleid J, David S, **Zareie-Vaux F**, Clements D, Tait L
 ### 2026
 ::: {.publication}
 
-Carmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, **Zareie-Vaux F**. Are species distribution models using climate variables suitable to forecast the changing distribution of freshwater organisms? *Freshwater Biology* (accepted).
+Carmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, **Zareie-Vaux F**. Are species distribution models using climate variables suitable to forecast the changing distribution of freshwater organisms? *Freshwater Biology* (accepted). [10.1111/fwb.70300](https://doi.org/10.1111/fwb.70300)
 
 ::: {.publication-links}
 
