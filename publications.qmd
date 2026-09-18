@@ -12,8 +12,6 @@ Most papers are published with online supplementary material. Code, analysis fil
 My publications are also listed on [ORCID](https://orcid.org/0000-0002-2882-7996), as well as my [GoogleScholar](https://scholar.google.com/citations?user=opPJEhoAAAAJ) and [Web of Science](https://www.webofscience.com/wos/author/record/V-6883-2019) profiles with citation metrics. Web of Science also records my verified peer reviews.
 
 ## Journal articles
-### *Submitted*
-
 ### 2026
 ::: {.publication}
 
