@@ -13,22 +13,23 @@ My publications are also listed on [ORCID](https://orcid.org/0000-0002-2882-7996
 
 ## Journal articles
 ### *Submitted*
-::: {.publication}
-
-Pearson RA, Preston G, Bulleid J, David S, **Zareie-Vaux F**, Clements D, Tait LW. Accelerated development and deployment of computer vision models for invasive aquatic pests. *Submitted to Scientific Reports*.
-
-::: {.publication-links}
-
-[Zenodo](https://doi.org/10.5281/zenodo.16864825)
-
-:::
-
-:::
 
 ### 2026
 ::: {.publication}
 
-Carmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, **Zareie-Vaux F**. Are species distribution models that use climate variables suitable to forecast the changing distribution of freshwater organisms? *Freshwater Biology* 71, e70300. [10.1111/fwb.70300](https://doi.org/10.1111/fwb.70300)
+Pearson RA, Preston G, Bulleid J, David S, **Zareie-Vaux F**, Clements D, Tait LW. (2026). Accelerated development and deployment of computer vision models for invasive aquatic pests. *Scientific Reports* (accepted, in press).
+
+::: {.publication-links}
+
+[Zenodo](https://doi.org/10.5281/zenodo.22103946)
+
+:::
+
+:::
+
+::: {.publication}
+
+Carmelet-Rescan D, Trewick SA, Bridger C, Pohe SR, Morgan-Richards M, **Zareie-Vaux F**. (2026). Are species distribution models that use climate variables suitable to forecast the changing distribution of freshwater organisms? *Freshwater Biology* 71, e70300. [10.1111/fwb.70300](https://doi.org/10.1111/fwb.70300)
 
 ::: {.publication-links}
 
